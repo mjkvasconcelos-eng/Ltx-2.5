@@ -1,0 +1,2 @@
+gradio>=6.0
+gradio_client>=1.13
